@@ -7,3 +7,6 @@ This is an web project that for type and publish blogs, texts, posts. Project's 
 - Read others blogs
 - Delete only your blogs
 - and more...
+
+## <strong> Important Note</strong>
+The codes are not allowed to access from users. Because the database connection strings, token generation actions e.g. The backend and frontend repositories are private.
